@@ -196,7 +196,7 @@ p {
 }
 
 .footerShow {
-  background: #18191c;
+  background: #284499;
   display: flex;
   justify-content: space-between;
   padding: 30px 120px;
@@ -235,6 +235,7 @@ p {
 }
 .navbarHide {
   display: none;
+  color: #4e7aff;
 }
 
 .heroSection {
@@ -397,7 +398,7 @@ p {
 }
 .howitworks .container .banner .card:nth-child(2) {
   background: #18191c;
-  color: #fff;
+  color: #a85151;
 }
 .howitworks .container .banner .card svg {
   font-size: 30px;
@@ -1151,7 +1152,7 @@ p {
   }
 }
 nav {
-  background: #18191c;
+  background: #284499;
   padding: 0 20px;
 }
 nav .container {
@@ -1162,8 +1163,8 @@ nav .container {
   justify-content: space-between;
 }
 nav .container .logo {
-  width: 120px;
-  height: 115px;
+  width: 160px;
+  height: 90px;
 }
 nav .container .logo img {
   width: 100%;
